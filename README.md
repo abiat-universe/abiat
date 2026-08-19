@@ -16,7 +16,7 @@ A fast, secure, native **Gmail & Calendar** desktop client for people who live i
 **[Download](https://www.abiat.io/download.html)** · **[Website](https://www.abiat.io/)** · **[Releases](https://github.com/abiat-universe/abiat/releases)**
 
 <!-- Replace with a real screenshot, e.g. assets/screenshot.png -->
-<img src="assets/screenshot.png" alt="Abiat screenshot" width="820" />
+<!-- <img src="assets/screenshot.png" alt="Abiat screenshot" width="820" /> -->
 
 </div>
 
